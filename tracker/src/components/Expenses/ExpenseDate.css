@@ -1,0 +1,13 @@
+.expense-date{
+border: 1px solid #ececec;
+display: flex;
+flex-direction: column;
+align-content: center;
+width: 4.5rem;
+height: 4.5rem;
+justify-content: center;
+align-items: center;
+border-radius: 13px;
+color: white;
+background-color: #2a2a2a
+}
